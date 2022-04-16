@@ -1,0 +1,2 @@
+spring.security.oauth2.client.registration.github.clientId=CLIENT_ID_TOKEN
+spring.security.oauth2.client.registration.github.clientSecret=CLIENT_SECRET_TOKEN
